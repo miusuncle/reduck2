@@ -14,9 +14,9 @@ npm i -S reduck2
 import { createDuck } from 'reduck2';
 
 const duck = createDuck({
-	name: 'xxx',
-	initialState: {
-		// TODO: declare state here
-	},
+  name: 'xxx',
+  initialState: {
+    // TODO: declare state here
+  },
 });
 ```

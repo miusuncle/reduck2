@@ -1,25 +1,25 @@
 {
-	"compilerOptions": {
-		"baseUrl": ".",
-		"target": "es5",
-		"module": "commonjs",
-		"moduleResolution": "node",
-		"jsx": "react",
-		"declaration": true,
-		"pretty": true,
-		"rootDir": "src",
-		"sourceMap": false,
-		"strict": true,
-		"noUnusedLocals": true,
-		"noUnusedParameters": true,
-		"esModuleInterop": true,
-		"noImplicitReturns": true,
-		"noImplicitAny": false,
-		"strictNullChecks": false,
-		"noFallthroughCasesInSwitch": true,
-		"skipLibCheck": true,
-		"outDir": "lib",
-		"lib": ["es2018", "dom"]
-	},
-	"exclude": ["node_modules", "lib"]
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "declaration": true,
+    "pretty": true,
+    "rootDir": "src",
+    "sourceMap": false,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "esModuleInterop": true,
+    "noImplicitReturns": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+    "outDir": "lib",
+    "lib": ["es2018", "dom"]
+  },
+  "exclude": ["node_modules", "lib"]
 }

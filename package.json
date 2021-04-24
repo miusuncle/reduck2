@@ -17,7 +17,8 @@
     "build:cjs": "tsc --module commonjs --outDir lib",
     "build:es": "tsc --module ESNext --outDir esm",
     "clean": "rimraf lib esm",
-    "prettier": "prettier --check \"./src/**\" || prettier --write \"./src/**\"",
+    "format": "prettier --write .",
+    "check-format": "prettier --check .",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
     "prepublishOnly": "yarn build && yarn version"
   },
