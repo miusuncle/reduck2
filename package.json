@@ -26,9 +26,8 @@
     "url": "https://github.com/miusuncle/reduck2.git"
   },
   "keywords": [
-    "react",
-    "hooks",
-    "utils"
+    "redux",
+    "duck"
   ],
   "author": "miusuncle",
   "license": "MIT",
