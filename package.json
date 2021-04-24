@@ -1,6 +1,6 @@
 {
   "name": "reduck2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Use redux without writing boilerplate code.",
   "main": "lib/index.js",
   "module": "esm/index.js",

@@ -1,3 +1,5 @@
+## [0.1.2](https://github.com/miusuncle/reduck2/compare/v0.1.1...v0.1.2) (2021-04-24)
+
 ## 0.1.1 (2021-04-24)
 
 ### Features
