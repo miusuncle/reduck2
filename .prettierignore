@@ -1,0 +1,7 @@
+# 大部分场景下，package.json 的修改主要来自于模块安装
+# 这个操作会对 `package.json` 自动进行格式化，不需要再使用 `prettier` 再次进行格式化处理
+package.json
+
+node_modules
+lib
+esm

@@ -1,0 +1,10 @@
+node_modules
+lib
+esm
+.DS_Store
+*.tmp
+*.log
+*.zip
+
+# un-ignore `.vscode` dir
+!.vscode
