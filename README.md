@@ -10,4 +10,13 @@ npm i -S reduck2
 
 ## 使用
 
+```js
+import { createDuck } from 'reduck2';
 
+const duck = createDuck({
+	name: 'xxx',
+	initialState: {
+		// TODO: declare state here
+	},
+});
+```
